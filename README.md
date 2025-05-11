@@ -30,10 +30,7 @@ A colorful and fun **Bubble Shooter** game built using Python and `pygame`. The 
 ## 📦 Installation & Setup
 
 ### 1. Clone the Repository
-```bash
+
 git clone https://github.com/your-username/bubble-shooter-python.git
 cd bubble-shooter-python
-You can install pygame using pip:
-### 2. Install Dependencies
-```bash
-pip install pygame
+
