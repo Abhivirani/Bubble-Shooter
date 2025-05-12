@@ -32,7 +32,7 @@ A colorful and fun **Bubble Shooter** game built using Python and `pygame`. The 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Abhivirani/Bubble-Shooter.git
-cd bubble-shooter-python
+cd Bubble-shooter
 ```
 ### 2.Install Dependencies
 ```bash
